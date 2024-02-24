@@ -1,1 +1,1 @@
-Solutions fo rimpertaive programming course
+Solutions for imperative programming course
